@@ -1,0 +1,10 @@
+{
+  "code_extensions": [".py", ".cpp", ".h", ".hpp", ".java"],
+  "report_extensions": [".docx", ".pdf"],
+  "max_file_size_mb": 20,
+  "threshold_code": 70,
+  "threshold_text": 60,
+  "shingle_size": 5,
+  "templates_dir": "templates",
+  "output_dir": "result"
+}
